@@ -1,0 +1,12 @@
+{
+  "name": "swgoh-member-truncator",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Felix Enterprises",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
